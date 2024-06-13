@@ -1,0 +1,21 @@
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Miscellaneous
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
